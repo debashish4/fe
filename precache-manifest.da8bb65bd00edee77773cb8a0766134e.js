@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fe/css/about.31f9384b.css"
   },
   {
-    "revision": "681c3079c30c7155252b",
+    "revision": "d507009576187f9ae53a",
     "url": "/fe/css/app.1a3020af.css"
   },
   {
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fe/img/hotel-wallpaper.4b8c6162.png"
   },
   {
-    "revision": "5e696d41139dd82469a3c952a22d27d7",
+    "revision": "aa0877276f3e99f48d02c01a2fef3ccb",
     "url": "/fe/index.html"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fe/js/about.bac94ca3.js"
   },
   {
-    "revision": "681c3079c30c7155252b",
-    "url": "/fe/js/app.49ee5791.js"
+    "revision": "d507009576187f9ae53a",
+    "url": "/fe/js/app.51f4f065.js"
   },
   {
     "revision": "9602edf1497b8e4a393a",
