@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "05a978c26869d1fa2b7a",
+    "revision": "72ff936f1c140c646568",
     "url": "/fe/css/about.e2bcd525.css"
   },
   {
-    "revision": "f98792459907d2fbc9f8",
+    "revision": "0bdbac473c3a6a6da9c3",
     "url": "/fe/css/app.f200505f.css"
   },
   {
@@ -16,20 +16,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fe/img/hotel-wallpaper.4b8c6162.png"
   },
   {
-    "revision": "ffb71d03145a873d9924604386921a77",
+    "revision": "d129cf348027e7a0789da25f190a36f3",
     "url": "/fe/index.html"
   },
   {
-    "revision": "05a978c26869d1fa2b7a",
-    "url": "/fe/js/about.a808eee1.js"
+    "revision": "72ff936f1c140c646568",
+    "url": "/fe/js/about.73351195.js"
   },
   {
-    "revision": "f98792459907d2fbc9f8",
-    "url": "/fe/js/app.6a0d9034.js"
+    "revision": "0bdbac473c3a6a6da9c3",
+    "url": "/fe/js/app.579bbb79.js"
   },
   {
-    "revision": "31f75a7b2ff13f22033f",
-    "url": "/fe/js/chunk-vendors.c0f2bfd7.js"
+    "revision": "9602edf1497b8e4a393a",
+    "url": "/fe/js/chunk-vendors.339175de.js"
   },
   {
     "revision": "230337b6fe5c24a47015bffdeac6e23b",
