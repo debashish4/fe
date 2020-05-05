@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fe/precache-manifest.8863351dc0331c6e1d26bfda77cdf605.js"
+  "/fe/precache-manifest.1709f9720ebd34ae342f381da205aceb.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "friendship_exam"});
