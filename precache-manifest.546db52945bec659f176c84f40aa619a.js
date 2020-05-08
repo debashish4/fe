@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4643869b5a010ea127e0",
-    "url": "/fe/css/about.4a0ab94d.css"
+    "revision": "34663384cae434bb6612",
+    "url": "/fe/css/about.8307bfcc.css"
   },
   {
-    "revision": "e34880ce03f74cbea676",
-    "url": "/fe/css/app.1ec7a211.css"
+    "revision": "7d899c8c245be6dee6de",
+    "url": "/fe/css/app.4885c7d9.css"
   },
   {
     "revision": "c6d27946a650873e079f0e5668a2faf5",
@@ -16,16 +16,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fe/img/hotel-wallpaper.4b8c6162.png"
   },
   {
-    "revision": "80c1fabaf843bc343765a8df557e6534",
+    "revision": "810d8bcf20cd5536b4c7de0c859b7c3b",
+    "url": "/fe/img/whatsapp-color.810d8bcf.png"
+  },
+  {
+    "revision": "08b00bbab1d0b08ad76aed29c59e8876",
     "url": "/fe/index.html"
   },
   {
-    "revision": "4643869b5a010ea127e0",
-    "url": "/fe/js/about.5191751e.js"
+    "revision": "34663384cae434bb6612",
+    "url": "/fe/js/about.571a57fb.js"
   },
   {
-    "revision": "e34880ce03f74cbea676",
-    "url": "/fe/js/app.277b26de.js"
+    "revision": "7d899c8c245be6dee6de",
+    "url": "/fe/js/app.ac6aeddf.js"
   },
   {
     "revision": "9602edf1497b8e4a393a",
