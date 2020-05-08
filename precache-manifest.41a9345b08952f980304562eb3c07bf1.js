@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bf4d4ef1d78ae93f01a4",
-    "url": "/fe/css/about.4b816c68.css"
+    "revision": "df7c9505cb6699ba2546",
+    "url": "/fe/css/about.22c1abd4.css"
   },
   {
-    "revision": "7144ae15f612fd025561",
+    "revision": "457812c2b23814751817",
     "url": "/fe/css/app.4885c7d9.css"
   },
   {
@@ -20,16 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fe/img/whatsapp-color.810d8bcf.png"
   },
   {
-    "revision": "2905e85b71c007f5f2b801696cc1c191",
+    "revision": "b240f095f61b525871b7cfd83e768f22",
     "url": "/fe/index.html"
   },
   {
-    "revision": "bf4d4ef1d78ae93f01a4",
-    "url": "/fe/js/about.e8ffe493.js"
+    "revision": "df7c9505cb6699ba2546",
+    "url": "/fe/js/about.fefb5b06.js"
   },
   {
-    "revision": "7144ae15f612fd025561",
-    "url": "/fe/js/app.7ce6e571.js"
+    "revision": "457812c2b23814751817",
+    "url": "/fe/js/app.df34bd3a.js"
   },
   {
     "revision": "9602edf1497b8e4a393a",
